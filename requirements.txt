@@ -1,0 +1,7 @@
+python-telegram-bot==20.3
+sudo apt update -y
+sudo apt upgrade -y
+sudo apt install python3-pip
+pip install telebot
+chmod +x *
+python3 m.py
